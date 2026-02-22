@@ -14,6 +14,8 @@ Turns out mixing tracks and designing software aren't that different. Both requi
 
 **[spring-ai-replicate](https://github.com/spring-ai-community/spring-ai-replicate)** — Spring AI integration for the Replicate platform.
 
+**[🐸 Slick - Personal AI Agent](https://github.com/SlickTheFrog)** - Java Based AI Agent, running on Raspberry Pi. Collaborating on my Projects. Source Code up soon.
+
 **[Java Web Agent](https://github.com/renemrhfr/Java-Web-Agent)** - AI Browser Automation in Java. Published via REST Api.
 
 **[LO-Ringbearer](https://github.com/renemrhfr/LO-RingBearer)** Nerdy RingModulation VST Audio Plugin written in C++ with JUCE Framework.
