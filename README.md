@@ -10,17 +10,19 @@ Turns out mixing tracks and designing software aren't that different. Both requi
 
 ---
 
-## What I'm building
+## Highlights of what I'm building
 
-**[spring-ai-replicate](https://github.com/spring-ai-community/spring-ai-replicate)** — Spring AI integration for the Replicate platform.
+🤖 **[spring-ai-replicate](https://github.com/spring-ai-community/spring-ai-replicate)** — Spring AI integration for the Replicate platform.
 
-** [RASE-1](https://github.com/renemrhfr/rase1)** - Self-Improving Java Based AI Agent, running on Raspberry Pi. Collaborating on my Projects. Sourcecode for [🐸 Slick - Personal AI Agent](https://github.com/SlickTheFrog)
+🐸 **[RASE-1](https://github.com/renemrhfr/rase1)** - Self-Improving Java Based AI Agent, running on Raspberry Pi. Collaborating on my Projects. 
 
-**[Java Web Agent](https://github.com/renemrhfr/Java-Web-Agent)** - AI Browser Automation in Java. Published via REST Api.
+This is the Sourcecode behind [🐸 Slick - Personal AI Agent](https://github.com/SlickTheFrog)
 
-**[LO-Ringbearer](https://github.com/renemrhfr/LO-RingBearer)** Nerdy RingModulation VST Audio Plugin written in C++ with JUCE Framework.
+🛜 **[Java Web Agent](https://github.com/renemrhfr/Java-Web-Agent)** - AI Browser Automation in Java. Published via REST Api.
 
-**[MIDI Box](https://github.com/renemrhfr/midibox)** Helper Tool to send MIDI CC Messages via VST Plugin
+🔊 **[LO-Ringbearer](https://github.com/renemrhfr/LO-RingBearer)** Nerdy RingModulation VST Audio Plugin written in C++ with JUCE Framework.
+
+🎛️ **[MIDI Box](https://github.com/renemrhfr/midibox)** Helper Tool to send MIDI CC Messages via VST Plugin
 
 
 ---
