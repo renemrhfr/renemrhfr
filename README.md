@@ -12,6 +12,8 @@ Turns out mixing tracks and designing software aren't that different. Both requi
 
 ## Highlights of what I'm building
 
+👨‍💻 **[GIT WHY](https://github.com/renemrhfr/git-why)** - Reverse-engineers business requirements from commits, diffs, and ticket context using a local LLM.
+
 📅 **[TKTool](https://github.com/renemrhfr/TKTool)** - Tool for Managing a Team
 
 🤖 **[spring-ai-replicate](https://github.com/spring-ai-community/spring-ai-replicate)** — Spring AI integration for the Replicate platform.
