@@ -14,9 +14,8 @@ Turns out mixing tracks and designing software aren't that different. Both requi
 
 📅 **[TKTool](https://github.com/renemrhfr/TKTool)** - Tool for Managing a Team
 
-👨‍💻 **[GIT WHY](https://github.com/renemrhfr/git-why)** - Reverse-engineers business requirements from commits, diffs, and ticket context using a local LLM.
-
-👨‍🏫 **[GIT EXPLAIN](https://github.com/renemrhfr/git-explain)** - Ask an LLM Questions about your Codebase directly from the Terminal.
+👨‍💻 **[git-llm-tools](https://github.com/renemrhfr/git-llm-tools)** — A lightweight suite of LLM-powered Git subcommands: *git why* reconstructs intent behind commits, *git explain*
+  answers questions about your codebase, and *git learn* builds a durable knowledge base from repository history.
 
 🤖 **[spring-ai-replicate](https://github.com/spring-ai-community/spring-ai-replicate)** — Spring AI integration for the Replicate platform.
 
